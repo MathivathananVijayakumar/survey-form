@@ -1,0 +1,58 @@
+.s{
+  background:url("https://www.weguidetechnologies.com/wp-content/uploads/2019/07/online-courses-elearning-1024x502.png");
+   padding:10px -10px -4px 10px;
+   width:1000px;
+    height:500px;
+   
+   
+ }
+ .header{
+   position:absolute;
+   top:40px;
+   left:60px;
+   color:solid black;
+  
+ }
+ body{
+   width: 1000px;
+   padding: 40px;  
+   border: 10px solid black;
+   height:500px;
+   
+     
+ }
+ .email{
+   position:absolute;
+   top:200px;
+   left:100px;
+ }
+ 
+ .password{
+   position:absolute;
+   top:160px;
+   left:100px;
+ }
+ .gender{
+   position:absolute;
+   top:240px;
+   left:100px;
+   background-color:green;
+ }
+ .courses{
+   position:absolute;
+   top:360px;
+   left:100px;
+   background-color:purple;
+ }
+ .good{
+   position:absolute;
+   top:320px;
+   left:100px;
+   background-color:purple;
+ }
+ .foot{
+    position:absolute;
+   top:140px;
+   left:px;
+   background:red;
+ }
